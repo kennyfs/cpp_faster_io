@@ -1,7 +1,7 @@
 # c++輸入輸出壓常
 搶TopCoder用，沒別的用途  
 改進自[FHVirus](https://github.com/fhvirus/)的[這篇](https://pastebin.com/hxB2e6Gf)  
-就只有支援負數、EOF而已
+改變內容就只有支援負數、EOF而已
 ```
 #include <unistd.h>
 const int mxbuf=65536;//預設65536，通常改低會有更好的表現
